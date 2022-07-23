@@ -9,19 +9,19 @@ export default function () {
       volumeControl(0);
       switch (buttonClass) {
          case "forest": {
-            setMedia("../media/floresta.wav");
+            setMedia("media/floresta.wav");
             break;
          }
          case "rain": {
-            setMedia("../media/chuva.wav");
+            setMedia("media/chuva.wav");
             break;
          }
          case "coffeeShop": {
-            setMedia("../media/cafeteria.wav");
+            setMedia("media/cafeteria.wav");
             break;
          }
          case "fireplace": {
-            setMedia("../media/lareira.wav");
+            setMedia("media/lareira.wav");
             break;
          }
          default: {
