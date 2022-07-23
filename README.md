@@ -15,7 +15,7 @@ Este projeto é o resultado do conhecimento adquirido no programa Explorer, até
 
 ### Páginas
 
-Projeto Git - [Projeto](https://loreancarlos.github.io/FocusTimerV2_DarkMode/)
+Projeto Git - [Projeto](https://loreancarlos.github.io/FocusTimerV2-_DarkMode/)
 
 ### O Desafio
 
@@ -23,7 +23,7 @@ Projeto Git - [Projeto](https://loreancarlos.github.io/FocusTimerV2_DarkMode/)
     - Adicionar todos os elementos do projeto mantendo suas proporções e características.
     - Utilizar tags semânticas para melhor acessibilidade.
     - Modelar o layout de forma responsiva para se adequar a todos os tamanhos de dispositivos. 
-    - Adicionar animações para adicionar interatividade ao Layout.
+    - Adicionar animações para acrescentar interatividade ao Layout.
     - Realizar a construção das funcionalidades com a linguagem JavaScript.
     - Realizar a programação do Java Script de forma Modular.
     - Adicionar novas funcionalidades como controlador de volume e alteração de propriedades conforme a seleção do tema desejado.
