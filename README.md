@@ -15,7 +15,7 @@ Este projeto é o resultado do conhecimento adquirido no programa Explorer, até
 
 ### Páginas
 
-Projeto Git - [Projeto](https://loreancarlos.github.io/FocusTimerV2-_DarkMode/)
+Projeto Git - [Projeto](https://loreancarlos.github.io/FocusTimerV2_DarkMode/)
 
 ### O Desafio
 
